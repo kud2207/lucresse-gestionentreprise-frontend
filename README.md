@@ -14,6 +14,6 @@ creation d'un dashboard en reactjs pour la gestion des equipement d'une entrepri
   > `npm i react-router-dom` : pour gerer les routes d'autre pages dans le projet ; recuperer des element via url
   >`npm install --force react-circular-progressbar` : pour creer circle nivauté ergonomique
   >`npm install chart.js` : pour inserer les graphe dynamique
-  >``
+  >`npm install recharts` : mieux pour le design 'https://recharts.org/en-US'
   >``
   >``
